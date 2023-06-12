@@ -1,8 +1,6 @@
 ### Bio
 
-Hello, my name is Adam Tovatt and I live in Stockholm, Sweden. I love trying to write the best possible code and I firmly believe that information and knowledge should be shared openly.
-
-I embrace the notion that every goal is attainable; it's merely a matter of finding the right way to do it. I find like finding and refining these ways.
+Hello, my name is Adam Tovatt and I live in Stockholm, Sweden. I love trying to write the best possible code and I firmly believe that information and knowledge should be shared openly. I embrace the notion that every goal is attainable; it's merely a matter of finding the right way to do it. I find like finding and refining these ways.
 
 I am a self-taught developer, and prior to attending the Royal Institute of Technology, I worked as a back end/full stack developer for three years. I also co-founded the company Sakur AB alongside Oliver Levay.
 
