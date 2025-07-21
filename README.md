@@ -1,13 +1,20 @@
-### Bio
+Obsessed with trying to write easy to use libraries.
 
-Hello, my name is Adam Tovatt, I'm 24 years old. I love trying to write the best possible code and I think information and knowledge should be shared openly. I like to think that every goal is attainable, it's just a matter of finding the right way to do it. I like finding and refining these ways.
-
-I am a self-taught developer, and prior to attending the Royal Institute of Technology and Lund University, I worked as a back end/full stack developer for three years. I also co-founded the company Sakur AB alongside Oliver Levay.
-
-I find interest in all things creative, and I am always looking for new ways to express myself. I enjoy programming, but I also like photography, playing the guitar, creating 3D graphics, and taking care of my plants in the best way possible. I am driven to innovate and create new things. I love designing both back-end architecture and front-end user experiences, as well as hardware systems. I don't want to be a very good programmer, I want to be a very good artist who uses code as one of his mediums.
-
-### More information
-
-If you want to get to know my coding better I suggest you read my code. I have a lot of public repositories.
-
-You can also check out [https://sakur.se/adam](https://sakur.se/adam) for more information.
+<a title="PgDump\nA .NET wrapper for PostgreSQL pg_dump" alt="PgDump" href="https://github.com/AdamTovatt/PgDump">
+  <img src="https://api.nuget.org/v3-flatcontainer/pgdump/1.0.3/icon" width="48"/>
+</a>
+<a title="ByteShelfClient\nClient library for ByteShelf API" alt="ByteShelfClient" href="https://github.com/AdamTovatt/ByteShelfClient">
+  <img src="https://api.nuget.org/v3-flatcontainer/byteshelfclient/1.2.2/icon" width="48"/>
+</a>
+<a title="ByteShelfCommon\nCommon utilities for ByteShelf projects" alt="ByteShelfCommon" href="https://github.com/AdamTovatt/ByteShelfCommon">
+  <img src="https://api.nuget.org/v3-flatcontainer/byteshelfcommon/1.2.2/icon" width="48"/>
+</a>
+<a title="SharpCutSvg\nSVG path cutting and manipulation for .NET" alt="SharpCutSvg" href="https://github.com/AdamTovatt/SharpCutSvg">
+  <img src="https://api.nuget.org/v3-flatcontainer/sharpcutsvg/1.3.0/icon" width="48"/>
+</a>
+<a title="WindscribeNet\nA .NET client for Windscribe API" alt="WindscribeNet" href="https://github.com/AdamTovatt/WindscribeNet">
+  <img src="https://api.nuget.org/v3-flatcontainer/windscribenet/1.0.2/icon" width="48"/>
+</a>
+<a title="SakurWebApiUtilities\nUtilities for building robust Web APIs" alt="SakurWebApiUtilities" href="https://github.com/AdamTovatt/SakurWebApiUtilities">
+  <img src="https://api.nuget.org/v3-flatcontainer/sakurwebapiutilities/1.7.0/icon" width="48"/>
+</a>
