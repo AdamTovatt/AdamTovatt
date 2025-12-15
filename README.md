@@ -35,6 +35,6 @@ Obsessed with writing easy to use libraries and apps.
     <td align="center"><a href="https://github.com/AdamTovatt/updaemon"><img src="https://github.com/AdamTovatt/updaemon/blob/master/Art/UpdaemonIcon/Export/128w/Updaemon.png?raw=true" width="64"/></a></td>
     <td align="center"><a href="https://github.com/AdamTovatt/easy-reasy"><img src="https://api.nuget.org/v3-flatcontainer/easyreasy/1.0.2/icon" width="64"/></a></td>
     <td align="center"><a href="https://github.com/AdamTovatt/easy-reasy-database"><img src="https://api.nuget.org/v3-flatcontainer/easyreasy/1.0.2/icon" width="64"/></a></td>
-    <td align="center"><a href="https://github.com/AdamTovatt/easy-reasy-database"><img src="https://api.nuget.org/v3-flatcontainer/easyreasy/1.0.2/icon" width="64"/></a></td>
+    <td align="center"><a href="https://github.com/AdamTovatt/easy-reasy-file-storage"><img src="https://api.nuget.org/v3-flatcontainer/easyreasy/1.0.2/icon" width="64"/></a></td>
   </tr>
 </table>
